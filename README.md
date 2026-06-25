@@ -1,6 +1,6 @@
-# Gather Signal Card Builder
+# Gather Social Card Builder
 
-A self-contained, single-file web tool for building Gather "Signal" cards and exporting them as PNG or PDF.
+A self-contained, single-file web tool for building Gather social cards and exporting them as PNG or PDF.
 
 ## Features
 
@@ -8,8 +8,8 @@ A self-contained, single-file web tool for building Gather "Signal" cards and ex
 - **1–3 cards** in a series, edited independently via tabs.
 - **Themes** — Light, Dark, and Orange.
 - **Layouts** — body copy (with divider) or list boxes.
-- **Editable icon** — Card 1 shows an icon (default robot); upload any image (PNG/SVG/JPG) to replace it, or reset to the default.
-- **Export** — download any card as a PNG, or all cards as a single PDF. Exports render at 5× for crisp output.
+- **Editable icon** — every Body Copy card shows an icon (default: the Gather "g" mark, shown white on Orange-theme cards for contrast); upload any image (PNG/SVG/JPG) to replace it, or reset to the default.
+- **Export** — download any card as a PNG, or all cards as a single PDF with one card per page. Exports render at 5× for crisp output.
 
 ## Usage
 
